@@ -1,0 +1,112 @@
+BODY{BACKGROUND-COLOR: #FFFFFF;MARGIN: 5px;FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Sans-Serif;}
+.formf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54 {
+	width:310px;
+	padding:0;
+}
+.formf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54 .top {
+	background:url('images/f1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54top.png');
+	height:35px;
+}
+.formf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54 .mid {
+	background:url('images/f1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54mid.png');
+}
+.formf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54 .mid table {
+	margin:0 auto;
+}
+.formf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54 .bottom {
+	height:35px;
+	background:url('images/f1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54bottom.png');
+}
+
+.formf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54 .txtforminput {
+	background:url('images/f1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54input_background.jpg');
+	font-size:16px;
+}
+
+.formf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54 form div {
+	padding:10px 0;
+}.titlef1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54{FONT-WEIGHT:bold; FONT-SIZE: 13pt; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: Center; }
+.bodyf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54{FONT-WEIGHT:normal; FONT-SIZE: 9pt; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.labelf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54{FONT-WEIGHT:normal; FONT-SIZE: 9pt; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none}
+.inputf1078a0c9-02a3-4a34-9cb2-1b7ad7e21d54 {width: 170px; border: solid 1px #DDDDDD }
+
+.borderbc89d2dc-c7b9-43f9-a45f-9056d130b4ef { background-color: White; width: 200px; border: solid 1px Black}
+.cell1bc89d2dc-c7b9-43f9-a45f-9056d130b4ef { padding: 0px 5px 5px 5px; width:100% }
+.cell2bc89d2dc-c7b9-43f9-a45f-9056d130b4ef { padding: 0px 5px 5px 0px}
+.labelbc89d2dc-c7b9-43f9-a45f-9056d130b4ef{FONT-WEIGHT:bold; FONT-SIZE: 12pt; COLOR: Black; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: Left; }
+
+.inputbc89d2dc-c7b9-43f9-a45f-9056d130b4ef { border: solid 1px Black; width:100% }
+.buttonbc89d2dc-c7b9-43f9-a45f-9056d130b4ef { background-color: Silver; border: solid 1px Black; color: Black; font-family: Arial; font-size: 12pt; font-weight: normal; font-style: normal; text-decoration: none }
+.headbc89d2dc-c7b9-43f9-a45f-9056d130b4ef{FONT-WEIGHT:bold; FONT-SIZE: 12pt; COLOR: Black; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+div.resultbc89d2dc-c7b9-43f9-a45f-9056d130b4ef { margin-top:0px; }
+div.resultspagebc89d2dc-c7b9-43f9-a45f-9056d130b4ef { overflow:hidden; }
+.resultbc89d2dc-c7b9-43f9-a45f-9056d130b4ef{FONT-WEIGHT:bold; FONT-SIZE: 12pt; COLOR: Blue; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.resultbc89d2dc-c7b9-43f9-a45f-9056d130b4ef:hover{FONT-WEIGHT:bold; FONT-SIZE: 12pt; COLOR: Green; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.descbc89d2dc-c7b9-43f9-a45f-9056d130b4ef{FONT-WEIGHT:normal; FONT-SIZE: 10pt; COLOR: Black; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.urlbc89d2dc-c7b9-43f9-a45f-9056d130b4ef{FONT-WEIGHT:normal; FONT-SIZE: 9pt; COLOR: Green; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; MARGIN-BOTTOM: 0px}
+.pagebc89d2dc-c7b9-43f9-a45f-9056d130b4ef{FONT-WEIGHT:normal; FONT-SIZE: 10pt; COLOR: Black; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.pagebc89d2dc-c7b9-43f9-a45f-9056d130b4ef a{FONT-WEIGHT:normal; FONT-SIZE: 10pt; COLOR: Green; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.pagebc89d2dc-c7b9-43f9-a45f-9056d130b4ef a:hover{FONT-WEIGHT:normal; FONT-SIZE: 10pt; COLOR: Red; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+
+.ulxsptagcloud { 
+list-style-type:none;
+padding:0px;
+margin:0px;
+text-align:center;
+}
+.ulxsptagcloud a { 
+font-family:verdana;
+color:blue;
+text-decoration:none;
+}
+.ulxsptagcloud a:hover { 
+font-family:verdana;
+text-decoration:underline;
+}
+.ulxsptagcloud li { 
+display:inline;
+margin-left:1px;
+margin-right:1px;
+}
+
+.ulxsptaglinks { 
+list-style-type:none;
+padding-left:0px;
+margin-left:0px;
+padding-right:0px;
+margin-right:0px;
+}
+.ulxsptaglinks a{ 
+}
+.ulxsptaglinks .tagcloudtitle{ 
+}
+.ulxsptaglinks .tagcloudtitle a{ 
+color:blue;
+font-family:verdana;
+font-size:12pt;
+}
+.ulxsptaglinks .tagclouddesc{ 
+font-size:10pt;
+color:black;
+font-family:verdana;
+}
+.ulxsptaglinks .tagcloudurl{ 
+font-size:10pt;
+color:green;
+font-family:verdana;
+}
+.spanxsptaglist { 
+font-size:10pt;
+font-family:Verdana;
+}
+.spanxsptaglist a{ 
+font-size:10pt;
+font-family:Verdana;
+}
+
+a.class1:link {font-family:Verdana; font-size:10pt;color:blue;text-decoration:underline;}
+a.class1:visited {font-family:Verdana; font-size:10pt;color:blue;text-decoration:underline;}
+a.class1:hover {font-family:Verdana; font-size:10pt;color:blue;text-decoration:underline;}
+li.class1 {display:list-item; color:black; margin-bottom:5}
+div.class1 {font-family:Verdana; font-size:10pt;color:black;text-decoration:none;}
+
